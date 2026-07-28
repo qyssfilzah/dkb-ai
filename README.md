@@ -1,3 +1,7 @@
 # dkb-ai
 hai
-#latihan git hub
+# latihan git hub
+## kemahiran 
+python
+git hub
+computer vision
